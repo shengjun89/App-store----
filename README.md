@@ -1,63 +1,45 @@
-## App Store Template for Sketch
-### Instructions
-Quickly set up your Sketch file and export screens for the iPhone 4, 5, 6 and 6 Plus for the App Store.
-![](http://cl.ly/image/2V2M1N1g0e45/Screen%20Shot%202015-03-07%20at%2012.11.02%20AM.png)
-![](http://cl.ly/image/303M1W2q2q0m/Screen-Shot-2015-03-06-at-6.08.35-PM.jpg)
+## APP商城／引导页／启动图标
+
+一套模版快速生成APP应用所有相关物料。
+
+![](http://sjnk88.com/wp-content/uploads/2017/10/屏幕快照-2017-10-26-下午1.17.57.png)
+
+
+### 01替换logo
+替换后，所有用到logo的页面将会批量被替换。
+![](http://sjnk88.com/wp-content/uploads/2017/10/01替换logo.gif)
+
 
 --
 
-### Customize Screens
-You can set up the screens by changing the Pattern Fill. This allows you to browse for the screenshot file in your computer.
-![](http://cl.ly/image/182D2r04410h/2015-03-06%2018_16_10.gif)
+### 02修改背景和手机样式
+可以将bg文件里的储备背景样式文件替换以便快速预览效果；手机颜色支持自己修改或添加渐变色。
+![](http://sjnk88.com/wp-content/uploads/2017/10/02修改背景和手机样式.gif)
 
 --
 
-### Preset Backgrounds
-You can use one of the Preset low polygon backgrounds that I created by changing the Pattern Fill to apply to all Backgrounds.
-![](http://cl.ly/image/0C1q0u0A3y0M/Poly%20Backgrounds.jpg)
+### 03刷新展示效果
+下载安装插件包中的Magic Mirror插件，镜像文件修改后，执行control＋shift＋command＋E快速刷新；
+![](http://sjnk88.com/wp-content/uploads/2017/10/03刷新展示效果.gif)
 
 --
 
-### Individual Styles
-Or, by selecting one of the Styles. This will apply to the Screenshots individually.
-![](http://cl.ly/image/1M3w412j0P1O/2015-03-06%2023_52_33.gif)
+### 04修改手机底板样式
+选中device style图层，Fill里面从本地替换手机底板样式位图文件。也可以打开手机模版PSD文件自己定义样式；
+![](http://sjnk88.com/wp-content/uploads/2017/10/04修改手机底板样式.gif)
 
 --
 
-### iPhones in 3 colors
-You can also change your phone individually to Black, Gold and Silver.
-![](http://cl.ly/image/0f2m122W1g11/Screen-Shot-2015-03-06-at-11.56.06-PM.jpg)
+### 05替换手机截屏内容
+control＋shift＋M  快捷键调出Magic Mirror，下拉框修改镜像的内容
+![](http://sjnk88.com/wp-content/uploads/2017/10/05替换手机截屏内容.gif)
 
 --
 
-### Customize The Text
-The text has a canvas area, which makes it easy to change it to single or multiple lines while having control over the alignment. Of course, you can use any typeface you’d like and it’ll automatically synchronize to all the screens.
-![](http://cl.ly/image/2c3b1Y1N0r33/Screen-Shot-2015-03-06-at-11.58.25-PM.jpg)
+### 06修改文字
+点击文字组件，右侧overrides修改内容，也可以下载Find and Replace批量替换文本；
+![](http://sjnk88.com/wp-content/uploads/2017/10/06修改文字.gif)
 
 --
 
-### Preview
-The results are previewed directly in the document, making it easy to see if you did something wrong. Plus, it is encouraged to edit the final screens to give more individuality.
-![](http://cl.ly/image/1e0H2h1X3g3B/Screen-Shot-2015-03-07-at-12.00.31-AM.jpg)
-
---
-
-### App Icon Template
-I included an App Icon template that you can use for exporting to all the resolutions using a single Artboard.
-
---
-
-### High-Res Wallpapers
-I'm also sharing 14 HD wallpapers. Big enough for the Macbook Pro Retina. Check the Wallpapers folder.
-
--- 
-
-### Tutorials
-Sketch and Xcode tutorials: http://designcode.io
-
---
-
-### Info
-You can use all the resources any way you'd like.
-
-Feel free to send me feedback on Twitter: [@MengTo](http://twitter.com/mengto)
+有任何使用问题欢迎关注公众号［ 奔跑的刷牙君 ］交流答疑
